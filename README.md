@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Felipe Ferreira Medeiros, 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffmedeiros2&layout=compact)
+
+
 <!--
 **ffmedeiros2/ffmedeiros2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
